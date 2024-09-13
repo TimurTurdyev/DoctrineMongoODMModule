@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/doctrine-mongo-odm-module",
+    "name": "timurturdyev/doctrine-mongo-odm-module",
     "description": "Laminas Module which provides Doctrine MongoDB ODM functionality",
     "license": "MIT",
     "keywords": [
